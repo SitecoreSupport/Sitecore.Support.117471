@@ -1,5 +1,5 @@
 # Sitecore.Support.117471
-Indexing commands from Developer Tab reworked
+Rework the RefreshTree command from the Developer Tab
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.117471/blob/master/LICENSE).  
